@@ -9,3 +9,10 @@
 python -m pip install -r requirements.txt
 ```
 [![YLAS GAMERS](https://img001.prntscr.com/file/img001/IpJhRn6nSqyCcTK39kumZA.png)](https://github.com/ylasgamers/tonlama)
+
+- Next You Need Input Your Ton Address On data.txt
+Example :
+```
+UQArm5VPWk_BasvVBHPtSP9NyO1Stpg8X3_4vRvqE6513Sjj
+```
+[![YLAS GAMERS](https://img001.prntscr.com/file/img001/Q01IPtSVSama13WGGEkJyQ.png)](https://github.com/ylasgamers/tonlama)
