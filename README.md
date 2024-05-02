@@ -8,4 +8,4 @@
 ```
 python -m pip install -r requirements.txt
 ```
-[![YLAS GAMERS](https://img001.prntscr.com/file/img001/gIaz5LBHSkS7esvxY4Lpqw.png)](https://github.com/ylasgamers/tonlama)
+[![YLAS GAMERS](https://img001.prntscr.com/file/img001/IpJhRn6nSqyCcTK39kumZA.png)](https://github.com/ylasgamers/tonlama)
