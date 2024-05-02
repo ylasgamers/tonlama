@@ -37,7 +37,7 @@ async def main():
         tasks = []
         with open('data.txt', 'r') as file:
             for line in file:
-                mainaddr, token = line.strip().split('|')
+                mainaddr = line.strip()
                 task = asyncio.create_task(verify_user(mainaddr))
                 tasks.append(task)
         await asyncio.gather(*tasks)
